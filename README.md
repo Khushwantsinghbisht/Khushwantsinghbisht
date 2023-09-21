@@ -1,7 +1,7 @@
 ![Data Science](https://github.com/Hiren838/Hiren838/assets/73177128/b9f5d0c7-6233-4b83-9541-2a756cfd884d)
 <h1 align="center">Greetings, I am Khushwant singh bisht</h1>
 <h3 align="center">I am an enthusiastic Data Scientist hailing from the vibrant nation of India</h3>
-<img align="right" alt="Coding" width="500" src="https://media1.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif?cid=ecf05e47vgananofgsdugne4m2ur2klbh9xhel5lojcfenxc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*gsagUAsosx9prDBpilMDHw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushwantsinghbisht&label=Profile%20views&color=0e75b6&style=flat" alt="khushwantsinghbisht" /> </p>
 
