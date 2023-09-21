@@ -1,4 +1,4 @@
-![Data Science](https://github.com/Hiren838/Hiren838/assets/73177128/b9f5d0c7-6233-4b83-9541-2a756cfd884d)
+<!--[Data Science](https://github.com/Hiren838/Hiren838/assets/73177128/b9f5d0c7-6233-4b83-9541-2a756cfd884d)-->
 <h1 align="center">Greetings, I am Khushwant singh bisht</h1>
 <h3 align="center">I am an enthusiastic Data Scientist hailing from the vibrant nation of India</h3>
 <img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1400/1*gsagUAsosx9prDBpilMDHw.gif">
