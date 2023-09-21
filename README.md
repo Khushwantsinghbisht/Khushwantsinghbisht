@@ -1,5 +1,7 @@
+![Data Science](https://github.com/Hiren838/Hiren838/assets/73177128/b9f5d0c7-6233-4b83-9541-2a756cfd884d)
 <h1 align="center">Greetings, I am Khushwant singh bisht</h1>
 <h3 align="center">I am an enthusiastic Data Scientist hailing from the vibrant nation of India</h3>
+<img align="right" alt="Coding" width="500" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushwantsinghbisht&label=Profile%20views&color=0e75b6&style=flat" alt="khushwantsinghbisht" /> </p>
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Nrk1ulDKlUtBHny6pYBLKxLKiSZG-0Vv0D6TotJXUlg/edit?usp=drive_link](https://docs.google.com/document/d/1Nrk1ulDKlUtBHny6pYBLKxLKiSZG-0Vv0D6TotJXUlg/edit?usp=drive_link)
 
-- ⚡ Fun fact **Avid viewer of horror and comedy films, possesses a unique superpower - the uncanny ability to seamlessly switch from spine-chilling scares to hearty laughter in the span of a movie night, leaving friends and family in awe of cinematic versatility.**
+- ⚡ Fun fact **Avid viewer of horror and comedy films, possess a unique superpower - the uncanny ability to seamlessly switch from spine-chilling scares to hearty laughter in the span of a movie night, leaving friends and family in awe of cinematic versatility.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
