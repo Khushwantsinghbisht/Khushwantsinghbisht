@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github.com/Khushwantsinghbisht/Khushwantsinghbisht/assets/130545113/0d49aaff-c879-41e2-a663-5a158b506036" alt="Khushwant" /> </p>
+<!--<p align="left"> <img src="https://github.com/Khushwantsinghbisht/Khushwantsinghbisht/assets/130545113/0d49aaff-c879-41e2-a663-5a158b506036" alt="Khushwant" /> </p>-->
 <!--[Khushwant singh bisht (1)](https://github.com/Khushwantsinghbisht/Khushwantsinghbisht/assets/130545113/0d49aaff-c879-41e2-a663-5a158b506036)-->
 <h1 align="center">Greetings, I am Khushwant singh bisht</h1>
 <h3 align="center">I am an enthusiastic Data Scientist hailing from the vibrant nation of India</h3>
